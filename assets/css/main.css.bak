@@ -2561,8 +2561,6 @@ button,
             line-height: 1.5;       /* Line spacing */
             font-family: Arial, sans-serif; /* Font style */
             padding-left: 20px;     /* Indentation */
-			text-align: justify;
-			text-justify: inner-word;
         }
 
         
