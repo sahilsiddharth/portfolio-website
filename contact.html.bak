@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Professional Journey</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript1.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<header><h2>Contact Information</h2></header>
+							
+							<p>If you'd like to get in touch with me, you can reach me through the following methods:</p>
+                
+                <!-- Contact Details -->
+                <ul>
+                    <li>Email: <a href="mailto:your.email@example.com">sahilsiddharth@gmail.com</a></li>
+                    <li>Phone: +91-8969674916</li>
+                    <li>LinkedIn: <a href="https://www.linkedin.com/in/mrsiddharth" target="_blank">LinkedIn profile</a></li>
+                    <li>GitHub: <a href="https://github.com/sahilsiddharth" target="_blank">GitHub profile</a></li>
+                </ul>
+						</div>
+					</div>
+					<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+				
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">About me</a></li>
+										<li><a href="elements.html">Projects & Certifications</a></li>
+										<li><a href="#">Blogs</a></li>
+										<li><a href="#">contact</a></li>
+										
+									</ul>
+								</nav>
+						</div>
+					</div>
+			</div>
+
+
+			
+
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+<!-- Inline CSS or External CSS -->
+    <style>
+        .list-item {
+            font-size: 16px;
+            color: ##7f888f;
+            margin-bottom: 10px;
+            line-height: 1.5;
+            font-family: Arial, sans-serif;
+            padding-left: 20px;
+        }
+
+        .list-item::before {
+            content: "• ";
+            color: #0073e6;
+            font-weight: bold;
+        }
+
+        /* Contact Section Styling */
+        h2 {
+            color: ##7f888f;
+            font-size: 24px;
+            margin-top: 30px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Contact Form Styling */
+        form {
+            display: flex;
+            flex-direction: column;
+            margin-top: 20px;
+        }
+
+        form input, form textarea {
+            padding: 10px;
+            margin: 5px 0 15px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        form button {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: #0073e6;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        form button:hover {
+            background-color: #005bb5;
+        }
+    </style>
+	</body>
+</html>

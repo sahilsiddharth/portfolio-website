@@ -35,8 +35,8 @@
 							</ol>
 							<header><h4>Project : State Bank Of India</h4></header>
 							<ol>
-								<li>Oversaw application design and development within the Interfaces portfolio of the SBI CBS Development Project, utilizing advanced UNIX and SQL skills to create highly efficient scripts for gathering business-oriented data, resulting in significant performance enhancements and aiding in the analysis and improvement of SBI's working architecture</li>
-								<li>Managed SBI online/offline/EOD/SOD operations using customized monitoring tools, resulting in a 20% efficiency increase, a 15% reduction in errors, and significant streamlining of processes
+								<li class="list-item">Oversaw application design and development within the Interfaces portfolio of the SBI CBS Development Project, utilizing advanced UNIX and SQL skills to create highly efficient scripts for gathering business-oriented data, resulting in significant performance enhancements and aiding in the analysis and improvement of SBI's working architecture</li>
+								<li class="list-item">Managed SBI online/offline/EOD/SOD operations using customized monitoring tools, resulting in a 20% efficiency increase, a 15% reduction in errors, and significant streamlining of processes
 								</li>
 							
 							</ol>
@@ -58,7 +58,7 @@
 										<li><a href="index.html">About me</a></li>
 										<li><a href="elements.html">Projects & Certifications</a></li>
 										<li><a href="#">Blogs</a></li>
-										<li><a href="#">contact</a></li>
+										<li><a href="contact.html">contact</a></li>
 										
 									</ul>
 								</nav>
